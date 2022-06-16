@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631034336412",
+    "project_id": "fleet-97d52",
+    "storage_bucket": "fleet-97d52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631034336412:android:e70ce0e9120d91007c8959",
+        "android_client_info": {
+          "package_name": "com.example.fleet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631034336412-mrh2f1bkn025k8ller81p7o6jaaqfotq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fleet",
+            "certificate_hash": "0000dc4db838129acb92642f3771c0824ea0924a"
+          }
+        },
+        {
+          "client_id": "631034336412-klr5ukjhknv8llbu73pv52vi9n3c2ide.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1n4YUq-dnARWda4nn6wBNb2cu0i9Rg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631034336412-klr5ukjhknv8llbu73pv52vi9n3c2ide.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
