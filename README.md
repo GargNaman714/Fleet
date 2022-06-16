@@ -1,6 +1,5 @@
 # fleet
 
-A new Flutter project.
 A video conferencing app which allows users to create and join meetings with many more features like
 live stream, group chat, screen share, mute/unmute audio and video etc
 
